@@ -28,7 +28,7 @@ In pratica, con un solo click puoi scattare una foto, farla descrivere dall’AI
 
 ## Windows 10/11
 ### 1. Installa Python 3.11+ (consigliato) e `pip`.
-### 2. Scarica **FFmpeg per Windows** e copia `ffmpeg.exe` e `ffprobe.exe` dentro `./ffmpeg_bin/` accanto allo script.
+### 2. Scarica **FFmpeg per Windows** e copia tutti i file in BIN dentro `./ffmpeg_bin/` accanto allo script.
 
 - Scarica: https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.7z
 
@@ -37,12 +37,18 @@ In pratica, con un solo click puoi scattare una foto, farla descrivere dall’AI
 ```
      
      ffmpeg_bin/
-       ffmpeg.exe
-       ffprobe.exe
+- `ffmpeg.exe`      
+- `ffprobe.exe`
+- `avcodec-62.dll`
+- `avdevice-62.dll`
+- `avfilter-11.dll`
+- `avformat-62.dll`
+- `avutil-60.dll`
+- `ffplay.exe`
+- `swresample-6.dll`
+- `swscale-9.dll`
 
 ```
-     
-
 
 ### 3. Crea ed attiva la venv:
    ```powershell
