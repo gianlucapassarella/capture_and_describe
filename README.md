@@ -62,7 +62,8 @@ pip install -r requirements.txt
 
 Su Windows simpleaudio non viene installato: l'audio usa automaticamente winsound (fallback integrato).
 
-## 5 Edita .env.example con la tua chiave e salvalo come .env:
+## 5 Edita .env.example con la tua chiave e salvalo come .env 
+### Modifica i paramentri e il prompt come preferisci
 ```
 OPENAI_API_KEY=sk-...
 
