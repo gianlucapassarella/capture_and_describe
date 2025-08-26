@@ -27,8 +27,8 @@ In pratica, con un solo click puoi scattare una foto, farla descrivere dall’AI
 ## Installazione
 
 ## Windows 10/11
-### 1. Installa Python 3.11+ (consigliato) e `pip`.
-### 2. Scarica **FFmpeg per Windows** e copia tutti i file in BIN dentro `./ffmpeg_bin/` accanto allo script.
+## 1. Installa Python 3.11+ (consigliato) e `pip`.
+## 2. Scarica **FFmpeg per Windows** e copia tutti i file in BIN dentro `./ffmpeg_bin/` accanto allo script.
 
 - Scarica: https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.7z
 
@@ -48,7 +48,7 @@ In pratica, con un solo click puoi scattare una foto, farla descrivere dall’AI
 
 ```
 
-### 3. Crea ed attiva la venv:
+## 3. Crea ed attiva la venv:
    ```powershell
    python -m venv .venv
    .\.venv\Scripts\activate
