@@ -1,0 +1,10 @@
+
+openai
+python-dotenv
+opencv-python
+pillow
+pydub
+
+
+simpleaudio ; platform_system != "Windows"
+
