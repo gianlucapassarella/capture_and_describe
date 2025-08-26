@@ -33,18 +33,18 @@ In pratica, con un solo click puoi scattare una foto, farla descrivere dall’AI
 - Scarica: https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.7z
 
 ```
-          -`ffmpeg_bin/
+          - ffmpeg_bin/
 
-            - `ffmpeg.exe`      
-            - `ffprobe.exe`
-            - `avcodec-62.dll`
-            - `avdevice-62.dll`
-            - `avfilter-11.dll`
-            - `avformat-62.dll`
-            - `avutil-60.dll`
-            - `ffplay.exe`
-            - `swresample-6.dll`
-            - `swscale-9.dll`
+            - ffmpeg.exe      
+            - ffprobe.exe
+            - avcodec-62.dll
+            - avdevice-62.dll
+            - avfilter-11.dll
+            - avformat-62.dll
+            - avutil-60.dll
+            - ffplay.exe
+            - swresample-6.dll
+            - swscale-9.dll
 
 ```
 
