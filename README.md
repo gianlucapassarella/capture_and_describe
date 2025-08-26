@@ -15,7 +15,7 @@ In pratica, con un solo click puoi scattare una foto, farla descrivere dall’AI
 
 ## 🖼️ Screenshot
 
-![Transcription WOW UI](screenshot.jpg)
+![capture_adn_describe](Screenshot.jpg)
 
 
 ## È utile per:
